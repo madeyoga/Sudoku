@@ -1,4 +1,4 @@
 # Sudoku
 C++/SFML
 
-Sudoku Solver/Game with Backtrack Algorithm
+Sudoku Solver/Game using Backtrack Algorithm
